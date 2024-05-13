@@ -1,0 +1,4 @@
+.vscode/
+dlx
+*.o
+dlxtmp/
